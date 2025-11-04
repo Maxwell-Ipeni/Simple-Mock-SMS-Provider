@@ -12,6 +12,8 @@ class VerifyCsrfToken extends Middleware
      * @var array
      */
     protected $except = [
-        //
+        // Allow external callbacks to these endpoints (used by the fake SMS provider UI)
+        '/receive-sms',
+        'api/submit',
     ];
 }

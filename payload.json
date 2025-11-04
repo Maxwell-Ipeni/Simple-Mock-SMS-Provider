@@ -1,0 +1,1 @@
+﻿{"callback":"http://127.0.0.1:8000/receive-sms","payload":{"message":"hello test from powershell"}}
