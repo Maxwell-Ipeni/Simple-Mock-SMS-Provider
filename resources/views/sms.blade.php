@@ -68,7 +68,7 @@
   "message": "SMS sent successfully.",
   "data": {
     "id": "1",
-    "message": "Hello, this is a test message for my app."
+    "message": "Hello, this is a test message."
   }
 }</div>
         </div>
